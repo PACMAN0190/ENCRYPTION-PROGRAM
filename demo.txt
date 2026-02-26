@@ -1,0 +1,26 @@
+Python Substitution Cipher Demo
+===============================
+
+Example 1
+---------
+Input:
+Hello World!
+
+Output:
+encrypted message : x9#P...
+original message : Hello World!
+
+
+Example 2
+---------
+Input:
+Secret123
+
+Output:
+encrypted message : A$7k!Qw
+original message : Secret123
+
+
+Note:
+The encrypted result changes every time because the key is randomly generated.
+To decrypt a message, the same key must be saved and reused.
